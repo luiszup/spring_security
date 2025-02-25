@@ -1,4 +1,4 @@
-package br.com.zup.user_manager.user_manager;
+package br.com.zup.user_manager.user_manager.services;
 
 import br.com.zup.user_manager.user_manager.dtos.UserLoginDTO;
 import br.com.zup.user_manager.user_manager.models.UserModel;

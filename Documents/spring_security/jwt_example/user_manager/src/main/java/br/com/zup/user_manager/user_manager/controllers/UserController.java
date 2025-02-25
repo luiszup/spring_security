@@ -1,6 +1,6 @@
 package br.com.zup.user_manager.user_manager.controllers;
 
-import br.com.zup.user_manager.user_manager.UserService;
+import br.com.zup.user_manager.user_manager.services.UserService;
 import br.com.zup.user_manager.user_manager.dtos.UserLoginDTO;
 import br.com.zup.user_manager.user_manager.models.UserModel;
 import org.springframework.beans.factory.annotation.Autowired;
